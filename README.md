@@ -1,8 +1,9 @@
-## What I Learned Today
+<h1 align="center">Hi 👋, I'm Januki Vihasna</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-I am currently attending a GitHub workshop.
-Today I learned about:- Version control - Creating a repository - The edit-commit-push cycle
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-My GitHub profile: https://github.com/Januki06
-
-Hello this is my new branch **Januki - Branch**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
